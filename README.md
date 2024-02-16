@@ -23,6 +23,3 @@ Analyze and Clean Storage is an efficient memory cleanup tool for Android phones
   <img src="/assets/Slide7.PNG" alt="Slide 7" style="margin:5px;width:23%;height:23%;">
   <img src="/assets/Slide8.PNG" alt="Slide 8" style="margin:5px;width:23%;height:23%;">
 </div>
-
-# Feedback
-If you have any feedback or want to get full sources, please reach out to me at ducnh.hust@gmail.com
